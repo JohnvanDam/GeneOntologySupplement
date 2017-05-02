@@ -1,5 +1,5 @@
 # GeneOntologySupplement
-Supplemental data and code used for the article "Towards the Gene Ontology of eukaryotic cilia and flagella" Roncaglia, et al. [DRAFT]
+Supplemental data and code used for the article "The Gene Ontology of eukaryotic cilia and flagella", Roncaglia, et al. [DRAFT]
 
 For full disclosure and information see:
 
