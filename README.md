@@ -1,9 +1,10 @@
 # GeneOntologySupplement
-Supplemental data and code used for the article "The Gene Ontology of eukaryotic cilia and flagella", Roncaglia, et al. [DRAFT]
+Supplemental data and code used for the article "The Gene Ontology of eukaryotic cilia and flagella", Roncaglia, et al. Cilia 6, 10 (2017)
 
 For full disclosure and information see:
 
-[Full reference pending]
+Roncaglia, P. et al. The Gene Ontology of eukaryotic cilia and flagella. Cilia 6, 10 (2017).
+http://dx.doi.org/10.1186/s13630-017-0054-8
 
 The provided files and scripts should allow you to rerun the analyses as described in the article. Below are links to source files used in this analysis that can not be part of the repository due to licencing and ownership. However running the makefile, by simply executing 'make' will download all required files automatically.
 
@@ -33,7 +34,7 @@ In linux:
 2. cd to the cloned repo directory.
 3. Execute 'make'.
 
-All relevant files not present will be downloaded, and all analyses will be run automatically.
+All relevant files not present will be downloaded, including the Ontologizer, and all analyses will be run automatically.
 
 #Known problems
 GOA annotation version 164 is current (as of 2017-01-19) and not yet in the legacy
